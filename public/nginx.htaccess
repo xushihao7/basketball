@@ -1,0 +1,6 @@
+# Check if a file exists, or route it to index.php.
+try_files $uri $uri/ /exploit/index.php?$query_string;
+if (!-e $request_filename) {
+    rewrite  ^(.*)$  /index.php?s=$1  last;
+    break;
+}

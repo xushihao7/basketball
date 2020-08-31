@@ -1,0 +1,499 @@
+{
+  "id": "1983519",
+  "name": "nba_icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "layui-extend",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7044573",
+      "name": "球员",
+      "font_class": "qiuyuan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1332355",
+      "name": "个人中心页_我的家庭",
+      "font_class": "gerenzhongxinyewodejiating",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "1332356",
+      "name": "个人中心页_我的地区",
+      "font_class": "gerenzhongxinyewodediqu",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "1388010",
+      "name": "点评_提交",
+      "font_class": "dianping_tijiao",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1625666",
+      "name": "一记成长【新】",
+      "font_class": "yijichengchangxin",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "1643426",
+      "name": "底部_主页_已选中状态",
+      "font_class": "dibu_zhuye_yixuanzhongzhuangtai",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "1643521",
+      "name": "个人中心_班主老师",
+      "font_class": "gerenzhongxin_banzhulaoshi",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "9209922",
+      "name": "首页-管理",
+      "font_class": "guanli",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13237969",
+      "name": "首页管理",
+      "font_class": "shouyeguanli1",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13618667",
+      "name": "lol",
+      "font_class": "lol",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4696266",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "4047278",
+      "name": "系统",
+      "font_class": "icon-test",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "12295290",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "f8b2",
+      "unicode_decimal": 63666
+    },
+    {
+      "icon_id": "3679957",
+      "name": "轮播图",
+      "font_class": "lunbotu",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "9372084",
+      "name": "球队-已选择@3x",
+      "font_class": "qiudui-yixuanzex",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "15007833",
+      "name": "艾佛森",
+      "font_class": "aifosen",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "15007898",
+      "name": "罗斯",
+      "font_class": "luosi",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "15007919",
+      "name": "纳什",
+      "font_class": "nashi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "15007929",
+      "name": "麦迪",
+      "font_class": "maidi",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "15007930",
+      "name": "卡特",
+      "font_class": "kate",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "15007952",
+      "name": "安东尼",
+      "font_class": "andongni",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "15007954",
+      "name": "姚明",
+      "font_class": "yaoming",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "15007965",
+      "name": "库里",
+      "font_class": "kuli",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "15007977",
+      "name": "杜兰特",
+      "font_class": "dulante",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "15008008",
+      "name": "威少",
+      "font_class": "weishao",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "15008041",
+      "name": "卡哇伊",
+      "font_class": "kawayi",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "15008074",
+      "name": "利拉德",
+      "font_class": "lilade",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "15008080",
+      "name": "诺维斯基",
+      "font_class": "nuoweisiji",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "15008094",
+      "name": "本·华莱士",
+      "font_class": "benhualaishi",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "3233717",
+      "name": "权限",
+      "font_class": "quanxian1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3347291",
+      "name": "球队",
+      "font_class": "qiudui",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7168818",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "8146994",
+      "name": "添加球队信息",
+      "font_class": "tianjiaqiuduixinxi",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "8338021",
+      "name": "添加球员",
+      "font_class": "tianjiaqiuyuan",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "9186709",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "9186714",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "10997903",
+      "name": "管理员",
+      "font_class": "guanliyuan1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12546788",
+      "name": "篮球赛况-在场球员",
+      "font_class": "lanqiusaikuang-zaichangqiuyuan",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "12862415",
+      "name": "管理员列表",
+      "font_class": "huiyuanliebiao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13494314",
+      "name": "球队",
+      "font_class": "iconfont",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13643479",
+      "name": "添加管理员",
+      "font_class": "tianjiaguanliyuan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1319539",
+      "name": "篮球",
+      "font_class": "lanqiu2",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "1320365",
+      "name": "沟通页_播放键_播放样式",
+      "font_class": "goutongye_bofangjian_bofangyangshi",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "1332354",
+      "name": "个人中心页_更新",
+      "font_class": "gerenzhongxinyegengxin",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1333684",
+      "name": "我的收藏页_编辑",
+      "font_class": "wodeshoucangyebianji",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "1377634",
+      "name": "点赞 (1)",
+      "font_class": "dianzan",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "13986080",
+      "name": "bangding",
+      "font_class": "bangding",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13986093",
+      "name": "erweima_1",
+      "font_class": "erweima_",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1980239",
+      "name": "小牛",
+      "font_class": "xiaoniu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1980240",
+      "name": "灰熊",
+      "font_class": "huixiong",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1980234",
+      "name": "热火",
+      "font_class": "rehuo",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1980238",
+      "name": "湖人",
+      "font_class": "huren",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "15007923",
+      "name": "韦德",
+      "font_class": "weide",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "15008064",
+      "name": "邓肯",
+      "font_class": "dengken",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "2010658",
+      "name": "NBA赛事",
+      "font_class": "NBAsaishi",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "4627497",
+      "name": "NBA",
+      "font_class": "NBA",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4840271",
+      "name": "nba",
+      "font_class": "nba",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "6556988",
+      "name": "NBA",
+      "font_class": "NBA1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11621237",
+      "name": "nba2k20",
+      "font_class": "nbak",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "1385577",
+      "name": "篮球场",
+      "font_class": "lanqiuchang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1385588",
+      "name": "篮球框",
+      "font_class": "lanqiukuang",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2506467",
+      "name": "篮球",
+      "font_class": "lanqiu",
+      "unicode": "ea73",
+      "unicode_decimal": 60019
+    },
+    {
+      "icon_id": "3794034",
+      "name": "体育-篮球",
+      "font_class": "tiyu-lanqiu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "6170866",
+      "name": "打篮球",
+      "font_class": "lanqiu1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "8923951",
+      "name": "篮球",
+      "font_class": "-",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11980165",
+      "name": "篮球场",
+      "font_class": "lanqiuchang1",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "15007816",
+      "name": "乔丹",
+      "font_class": "qiaodan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "15007818",
+      "name": "詹姆斯",
+      "font_class": "zhanmusi",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "15007823",
+      "name": "科比",
+      "font_class": "kebi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "15007849",
+      "name": "欧文",
+      "font_class": "ouwen",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}
